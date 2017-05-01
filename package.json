@@ -2,9 +2,9 @@
   "name": "bjs-starter-js",
   "version": "1.0.0",
   "devDependencies": {
-    "grunt": "latest",
-    "grunt-contrib-connect": "latest",
-    "grunt-contrib-watch": "latest",
-    "jit-grunt": "latest"
+    "typescript": "latest"
+  },
+  "scripts": {
+    "test": "browser-sync start --server --files **/* --no-inject-changes --startPath index.html"
   }
 }
