@@ -1,5 +1,4 @@
-class Game {
-    constructor() {
-    }
-}
-//# sourceMappingURL=index.js.map
+window.addEventListener("DOMContentLoaded", function () {
+
+
+})
